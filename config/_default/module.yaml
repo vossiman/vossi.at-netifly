@@ -7,5 +7,3 @@
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
-# Decap CMS module
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
